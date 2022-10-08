@@ -46,3 +46,7 @@ One thing in this project that I think could be accomplished in a better way is 
 
 - GitHub - [ahmedhanyh](https://github.com/ahmedhanyh)
 - Frontend Mentor - [@ahmedhanyh](https://www.frontendmentor.io/profile/ahmedhanyh)
+
+## Acknowledgments
+
+Thanks to [@correlucas](https://www.frontendmentor.io/profile/correlucas) and [@vcarames](https://www.frontendmentor.io/profile/vcarames) for giving me feedback and helping me better structure my HTML, making the website more accessible and more responsive.
